@@ -4,7 +4,7 @@ This repository contains the research project **"Causal-Aligned Knowledge Distil
 
 ## 📄 Project Paper
 You can read the full research paper here:
-👉 [View PDF Paper](./FinalPaper.pdf)
+👉 [View PDF Paper](./Article.pdf)
 
 ## 📊 Project Structure
 - **FinalPaper.pdf** — Full research paper including abstract, methodology, results, and discussion.
