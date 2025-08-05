@@ -1,6 +1,6 @@
-# CAKD — Causal-Aligned Knowledge Distillation
+# Knowledge Distillation
 
-This repository contains the research project **"Causal-Aligned Knowledge Distillation (CAKD)"**, focusing on enhancing Knowledge Distillation (KD) techniques by integrating **Attention Transfer (AT)** and **Feature Alignment (FA)** guided by causal attention masking. The project demonstrates how structured and selective attention mechanisms can significantly improve student model performance in terms of accuracy, generalization, and robustness while maintaining model efficiency.
+This repository contains the research project **"Knowledge Distillation"**, focusing on enhancing Knowledge Distillation (KD) techniques by integrating **Attention Transfer (AT)** and **Feature Alignment (FA)** guided by causal attention masking. The project demonstrates how structured and selective attention mechanisms can significantly improve student model performance in terms of accuracy, generalization, and robustness while maintaining model efficiency.
 
 ## 📄 Project Paper
 You can read the full research paper here:
