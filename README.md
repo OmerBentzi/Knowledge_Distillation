@@ -27,34 +27,7 @@ You can read the full research paper here:
 | KD + Attention Transfer (AT)       | 83.53%                  |
 | KD + Combined Method (FA + AT)     | **83.77%**              |
 
-## 🚀 How to Run
-```bash
-# Clone the repository
-git clone https://github.com/YourUserName/YourRepoName.git
-cd YourRepoName
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run experiments
-cd notebooks
-jupyter notebook
-```
-
-## 📂 Folder Structure
-```
-├── FinalPaper.pdf
-├── notebooks/
-│   └── CAKD_Experiments.ipynb
-├── src/
-│   ├── models.py
-│   ├── losses.py
-│   └── utils.py
-├── docs/
-│   └── attention_visualizations/
-├── README.md
-└── requirements.txt
-```
 
 ## 👨‍💻 Authors
 - **Omer Ben Simon**
