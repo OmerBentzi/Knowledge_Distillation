@@ -6,11 +6,6 @@ This repository contains the research project **"Knowledge Distillation"**, focu
 You can read the full research paper here:
 👉 [View PDF Paper](./Article.pdf)
 
-## 📊 Project Structure
-- **FinalPaper.pdf** — Full research paper including abstract, methodology, results, and discussion.
-- **Notebooks/** — Jupyter notebooks with code for KD experiments, attention extraction, and visualization.
-- **src/** — Source code for model training, attention masking, and loss implementations.
-- **docs/** — Additional documentation and visual assets.
 
 ## 🧠 Key Contributions
 - A unified KD framework combining **Attention Transfer (AT)** and **Feature Alignment (FA)**.
