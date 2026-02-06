@@ -4,7 +4,7 @@ This repository contains the research project **"Knowledge Distillation"**, focu
 
 ## 📄 Project Paper
 You can read the full research paper here:
-👉 [View PDF Paper](./Article.pdf)
+👉 [View PDF Paper](./Knowledge_Distillation_Article.pdf)
 
 
 ## 🧠 Key Contributions
